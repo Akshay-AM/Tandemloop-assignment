@@ -41,11 +41,3 @@ File: Program-4.java
 
 
 
-🛠️ How to Run
-Prerequisites:
-Java JDK installed
-Java compiler (javac) and runtime (java) available in your system PATH
-Steps:
-Clone this repository:
-git clone https://github.com/https://github.com/Akshay-AM/tandemloop.git
-
